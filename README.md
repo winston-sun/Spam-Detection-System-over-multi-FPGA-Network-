@@ -1,4 +1,4 @@
-##**SPAM EMAIL DETECTION SYSTEM**
+## SPAM EMAIL DETECTION SYSTEM
 This project utilizes parallel hash table to implement a spam email detection system.
 
 The system uses one Server FPGA and two Client FPGAs for parallel access. 
